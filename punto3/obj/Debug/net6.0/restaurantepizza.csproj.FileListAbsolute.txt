@@ -1,0 +1,15 @@
+C:\Users\cristian solano\Desktop\visual code\restaurantepizza\obj\Debug\net6.0\restaurantepizza.csproj.AssemblyReference.cache
+C:\Users\cristian solano\Desktop\visual code\restaurantepizza\obj\Debug\net6.0\restaurantepizza.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cristian solano\Desktop\visual code\restaurantepizza\obj\Debug\net6.0\restaurantepizza.AssemblyInfoInputs.cache
+C:\Users\cristian solano\Desktop\visual code\restaurantepizza\obj\Debug\net6.0\restaurantepizza.AssemblyInfo.cs
+C:\Users\cristian solano\Desktop\visual code\restaurantepizza\obj\Debug\net6.0\restaurantepizza.csproj.CoreCompileInputs.cache
+C:\Users\cristian solano\Desktop\visual code\restaurantepizza\bin\Debug\net6.0\restaurantepizza.exe
+C:\Users\cristian solano\Desktop\visual code\restaurantepizza\bin\Debug\net6.0\restaurantepizza.deps.json
+C:\Users\cristian solano\Desktop\visual code\restaurantepizza\bin\Debug\net6.0\restaurantepizza.runtimeconfig.json
+C:\Users\cristian solano\Desktop\visual code\restaurantepizza\bin\Debug\net6.0\restaurantepizza.dll
+C:\Users\cristian solano\Desktop\visual code\restaurantepizza\bin\Debug\net6.0\restaurantepizza.pdb
+C:\Users\cristian solano\Desktop\visual code\restaurantepizza\obj\Debug\net6.0\restaurantepizza.dll
+C:\Users\cristian solano\Desktop\visual code\restaurantepizza\obj\Debug\net6.0\refint\restaurantepizza.dll
+C:\Users\cristian solano\Desktop\visual code\restaurantepizza\obj\Debug\net6.0\restaurantepizza.pdb
+C:\Users\cristian solano\Desktop\visual code\restaurantepizza\obj\Debug\net6.0\restaurantepizza.genruntimeconfig.cache
+C:\Users\cristian solano\Desktop\visual code\restaurantepizza\obj\Debug\net6.0\ref\restaurantepizza.dll

@@ -1,0 +1,15 @@
+C:\Users\ESTUDIANTE\punto_1\bin\Debug\net7.0\punto_1.exe
+C:\Users\ESTUDIANTE\punto_1\bin\Debug\net7.0\punto_1.deps.json
+C:\Users\ESTUDIANTE\punto_1\bin\Debug\net7.0\punto_1.runtimeconfig.json
+C:\Users\ESTUDIANTE\punto_1\bin\Debug\net7.0\punto_1.dll
+C:\Users\ESTUDIANTE\punto_1\bin\Debug\net7.0\punto_1.pdb
+C:\Users\ESTUDIANTE\punto_1\obj\Debug\net7.0\punto_1.csproj.AssemblyReference.cache
+C:\Users\ESTUDIANTE\punto_1\obj\Debug\net7.0\punto_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ESTUDIANTE\punto_1\obj\Debug\net7.0\punto_1.AssemblyInfoInputs.cache
+C:\Users\ESTUDIANTE\punto_1\obj\Debug\net7.0\punto_1.AssemblyInfo.cs
+C:\Users\ESTUDIANTE\punto_1\obj\Debug\net7.0\punto_1.csproj.CoreCompileInputs.cache
+C:\Users\ESTUDIANTE\punto_1\obj\Debug\net7.0\punto_1.dll
+C:\Users\ESTUDIANTE\punto_1\obj\Debug\net7.0\refint\punto_1.dll
+C:\Users\ESTUDIANTE\punto_1\obj\Debug\net7.0\punto_1.pdb
+C:\Users\ESTUDIANTE\punto_1\obj\Debug\net7.0\punto_1.genruntimeconfig.cache
+C:\Users\ESTUDIANTE\punto_1\obj\Debug\net7.0\ref\punto_1.dll

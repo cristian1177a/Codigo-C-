@@ -1,0 +1,15 @@
+C:\Users\ESTUDIANTE\punto4\bin\Debug\net7.0\punto4.exe
+C:\Users\ESTUDIANTE\punto4\bin\Debug\net7.0\punto4.deps.json
+C:\Users\ESTUDIANTE\punto4\bin\Debug\net7.0\punto4.runtimeconfig.json
+C:\Users\ESTUDIANTE\punto4\bin\Debug\net7.0\punto4.dll
+C:\Users\ESTUDIANTE\punto4\bin\Debug\net7.0\punto4.pdb
+C:\Users\ESTUDIANTE\punto4\obj\Debug\net7.0\punto4.csproj.AssemblyReference.cache
+C:\Users\ESTUDIANTE\punto4\obj\Debug\net7.0\punto4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ESTUDIANTE\punto4\obj\Debug\net7.0\punto4.AssemblyInfoInputs.cache
+C:\Users\ESTUDIANTE\punto4\obj\Debug\net7.0\punto4.AssemblyInfo.cs
+C:\Users\ESTUDIANTE\punto4\obj\Debug\net7.0\punto4.csproj.CoreCompileInputs.cache
+C:\Users\ESTUDIANTE\punto4\obj\Debug\net7.0\punto4.dll
+C:\Users\ESTUDIANTE\punto4\obj\Debug\net7.0\refint\punto4.dll
+C:\Users\ESTUDIANTE\punto4\obj\Debug\net7.0\punto4.pdb
+C:\Users\ESTUDIANTE\punto4\obj\Debug\net7.0\punto4.genruntimeconfig.cache
+C:\Users\ESTUDIANTE\punto4\obj\Debug\net7.0\ref\punto4.dll

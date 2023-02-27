@@ -1,0 +1,15 @@
+C:\Users\SERVIDOR-PC\entregable_1_punto_2\obj\Debug\net7.0\entregable_1_punto_2.csproj.AssemblyReference.cache
+C:\Users\SERVIDOR-PC\entregable_1_punto_2\obj\Debug\net7.0\entregable_1_punto_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SERVIDOR-PC\entregable_1_punto_2\obj\Debug\net7.0\entregable_1_punto_2.AssemblyInfoInputs.cache
+C:\Users\SERVIDOR-PC\entregable_1_punto_2\obj\Debug\net7.0\entregable_1_punto_2.AssemblyInfo.cs
+C:\Users\SERVIDOR-PC\entregable_1_punto_2\obj\Debug\net7.0\entregable_1_punto_2.csproj.CoreCompileInputs.cache
+C:\Users\SERVIDOR-PC\entregable_1_punto_2\bin\Debug\net7.0\entregable_1_punto_2.exe
+C:\Users\SERVIDOR-PC\entregable_1_punto_2\bin\Debug\net7.0\entregable_1_punto_2.deps.json
+C:\Users\SERVIDOR-PC\entregable_1_punto_2\bin\Debug\net7.0\entregable_1_punto_2.runtimeconfig.json
+C:\Users\SERVIDOR-PC\entregable_1_punto_2\bin\Debug\net7.0\entregable_1_punto_2.dll
+C:\Users\SERVIDOR-PC\entregable_1_punto_2\bin\Debug\net7.0\entregable_1_punto_2.pdb
+C:\Users\SERVIDOR-PC\entregable_1_punto_2\obj\Debug\net7.0\entregable_1_punto_2.dll
+C:\Users\SERVIDOR-PC\entregable_1_punto_2\obj\Debug\net7.0\refint\entregable_1_punto_2.dll
+C:\Users\SERVIDOR-PC\entregable_1_punto_2\obj\Debug\net7.0\entregable_1_punto_2.pdb
+C:\Users\SERVIDOR-PC\entregable_1_punto_2\obj\Debug\net7.0\entregable_1_punto_2.genruntimeconfig.cache
+C:\Users\SERVIDOR-PC\entregable_1_punto_2\obj\Debug\net7.0\ref\entregable_1_punto_2.dll

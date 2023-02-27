@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "entregable_1_punto_2/1.0.0": {
+        "runtime": {
+          "entregable_1_punto_2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "entregable_1_punto_2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
